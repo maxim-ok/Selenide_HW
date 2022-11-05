@@ -1,0 +1,1 @@
+https://ci.appveyor.com/api/projects/status/4usxwf6h5dog20id/branch/master?svg=true
