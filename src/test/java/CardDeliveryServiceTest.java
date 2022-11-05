@@ -10,12 +10,6 @@ public class CardDeliveryServiceTest {
 
         open("http://localhost:9999/");
 
-
-
-
-
-
-
     }
 
 
